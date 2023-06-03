@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'monospace', sans-serif;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+#submit, #reset {
+    font-size: 1rem;
+    margin: 0.5rem;
+    padding: 0.2rem;
+    
+}
+
+#answer-number {
+    font-size: 4rem;
+}
+
+#your-guess {
+    font-size: 2rem;
+    width: 20rem;
+}
